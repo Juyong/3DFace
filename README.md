@@ -17,9 +17,10 @@ Please note that this dataset could be used for research purpose only, and any c
 ## Citing 3DFace Dataset
 
 Please cite the following paper if this dataset helps your research:
-@article{guo20173d,
-  author = {Yudong Guo and Juyong Zhang and Jianfei Cai and Boyi Jiang and Jianmin Zheng},
-  title = {3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing Photo-realistic Face Images},
-  journal = {arXiv preprint arXiv:1708.00980},
-  year = {2017}
-}
+
+	@article{guo20173d,
+  		author = {Yudong Guo and Juyong Zhang and Jianfei Cai and Boyi Jiang and Jianmin Zheng},
+  		title = {3DFaceNet: Real-time Dense Face Reconstruction via Synthesizing Photo-realistic Face Images},
+  		journal = {arXiv preprint arXiv:1708.00980},
+  		year = {2017}
+	}
