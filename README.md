@@ -10,11 +10,11 @@ To use the CoarseData, one needs the [Basel Face Model](http://faces.cs.unibas.c
 
 As introduced in the above, each face image is augmented 30 times in the CoarseData and FineData dataset. With the given information, we can easily get the corresponding 3D landmark positions and pose informations of the image in the datset. If you have comments or questions, please contact Yudong Guo (gyd2011@mail.ustc.edu.cn) and Juyong Zhang (juyong@ustc.edu.cn).
 
-## License and Citation
+## License
 
 Please note that this dataset could be used for research purpose only, and any commercial use of the data is prohibited.
 
-## Citing 3DFace Dataset
+## Citation
 
 Please cite the following paper if this dataset helps your research:
 
