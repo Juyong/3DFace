@@ -20,7 +20,7 @@ Please note that this dataset could be used for research purpose only, and any c
 
 Please cite the following paper if this dataset helps your research:
 
-	@article{guo20183d,
+	@article{Guo20183DFace,
   		author = {Yudong Guo and Juyong Zhang and Jianfei Cai and Boyi Jiang and Jianmin Zheng},
   		title = {CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images},
   		journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
