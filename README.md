@@ -6,7 +6,7 @@ We also put the augmented dataset and the reconstruction results by our method o
 
 ## Dependencies
 
-To use the CoarseData, one needs the [Basel Face Model](http://faces.cs.unibas.ch/bfm/?nav=1-0&id=basel_face_model), which is used as the parametric identity face model in our method.
+To use the CoarseData, one needs the [Basel Face Model](https://faces.dmi.unibas.ch/bfm/), which is used as the parametric identity face model in our method.
 
 ## Usage
 
